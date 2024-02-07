@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Mytest/Tuneverse"><classes><class name="api.tests.DDUserTest"><methods><exclude name="createNewMember"/></methods></class><class name="api.tests.UserTest"><methods><include name="testCreateUser"/><include name="testUpdateUser"/><include name="testGetUser"/><include name="testDBConnection"/></methods></class></classes></test></suite>
