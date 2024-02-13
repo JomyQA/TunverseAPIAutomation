@@ -16,7 +16,7 @@ public class userEndpoints {
     }
 
     public static Response createUser(user payload) {
-        String create_url = getUrl().getString("create_user");
+        String create_url = getUrl().getString("remote_user");
         Response response = RestAssured
                 .given()
                 .header("partner_id","614608f2-6538-4733-aded-96f902007254")
@@ -28,7 +28,7 @@ public class userEndpoints {
     }
 
     public static Response getUser(String uuid) {
-        String get_url = getUrl().getString("get_user");
+        String get_url = getUrl().getString("remote_get");
         Response response = RestAssured
                 .given()
                 .header("partner_id","614608f2-6538-4733-aded-96f902007254")
@@ -40,7 +40,7 @@ public class userEndpoints {
     }
 
     public static Response updateUser(String uuid , userUpdate payload) {
-        String update_url = getUrl().getString("update_user");
+        String update_url = getUrl().getString("remote_update");
         Response response = RestAssured
                 .given()
                 .pathParam("uuid",uuid)

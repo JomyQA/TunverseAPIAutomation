@@ -5,30 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e29e5eb-6dea-4ac3-8ece-89b58bee25b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tuneverse/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/routes.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/endpoints/Routes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/endpoints/userEndpoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/payload/user.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/payload/userUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/tests/DDUserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/tests/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/utilities/XLUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/utilities/dataProviders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/utilities/extentReportManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jdbc/AbstractJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jdbc/UserJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/userData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/userOneData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/routes.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/routes.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/endpoints/userEndpoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/endpoints/userEndpoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/jdbc/AbstractJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jdbc/AbstractJdbc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +55,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Mytest/Tuneverse/reports&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Websites/TunverseAPIAutomation&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.5482759&quot;,
@@ -92,7 +73,7 @@
       <recent name="api.endpoints" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Mytest/Tuneverse/testng.xml">
+  <component name="RunManager" selected="TestNG.UserTest.testCreateUser">
     <configuration name="C:/Mytest/Tuneverse/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Tuneverse" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -158,9 +139,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Mytest/Tuneverse/testng.xml" />
-        <item itemvalue="TestNG.UserTest" />
         <item itemvalue="TestNG.UserTest.testCreateUser" />
+        <item itemvalue="TestNG.UserTest" />
+        <item itemvalue="TestNG.C:/Mytest/Tuneverse/testng.xml" />
         <item itemvalue="TestNG.DDUserTest.getMember" />
       </list>
     </recent_temporary>
