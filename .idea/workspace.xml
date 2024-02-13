@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e29e5eb-6dea-4ac3-8ece-89b58bee25b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/routes.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/routes.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/endpoints/userEndpoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/endpoints/userEndpoints.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/jdbc/AbstractJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jdbc/AbstractJdbc.java" afterDir="false" />
-    </list>
+    <list default="true" id="8e29e5eb-6dea-4ac3-8ece-89b58bee25b1" name="Changes" comment="Remote Config" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,6 +149,14 @@
       <option name="presentableId" value="Default" />
       <updated>1705900247012</updated>
     </task>
+    <task id="LOCAL-00001" summary="Remote Config">
+      <created>1707814910370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707814910370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +197,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Remote Config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remote Config" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
